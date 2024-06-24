@@ -12,7 +12,7 @@ Un estudiante y practicante de análisis y desarrollo de software de Colombia. M
 - 🤝 Perseverante, versátil, ágil y con una actitud positiva.
 - 🌱 En constante aprendizaje y compartiendo conocimientos.
 
-## Estadísticas de GitHub
+## Estadísticas de GitHub (SaPradilla)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaPradilla&theme=dark)
 ![Lenguajes más utilizados](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaPradilla&theme=dark&exclude=HTML)
 
